@@ -13,8 +13,8 @@ This project is a **Flask web application** that:
 
 ### 1. Clone Repository (SSH)  
 ```bash
-git clone git@github.com:YourUsername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/git-black-ninja/Flask_Assignment-.git
+cd Flask_Assignment-
 ```
 
 ### 2. Create & Activate Virtual Environment
