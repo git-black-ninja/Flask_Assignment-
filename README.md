@@ -11,7 +11,7 @@ This project is a **Flask web application** that:
 
 ## 🚀 Setup Instructions  
 
-### 1. Clone Repository (SSH)  
+### 1. Clone Repository 
 ```bash
 git clone https://github.com/git-black-ninja/Flask_Assignment-.git
 cd Flask_Assignment-
